@@ -1,0 +1,12 @@
+git clone https://github.com/azlinwei/ATM.git
+
+git branch
+
+git checkout ...
+
+git checkout -b ...
+
+git merge ...
+
+
+
